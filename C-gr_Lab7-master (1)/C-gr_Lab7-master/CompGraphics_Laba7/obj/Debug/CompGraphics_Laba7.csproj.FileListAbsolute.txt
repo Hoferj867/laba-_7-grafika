@@ -1,0 +1,8 @@
+C:\Users\Сашок\Downloads\C-gr_Lab7-master (1)\C-gr_Lab7-master\CompGraphics_Laba7\bin\Debug\CompGraphics_Laba7.exe
+C:\Users\Сашок\Downloads\C-gr_Lab7-master (1)\C-gr_Lab7-master\CompGraphics_Laba7\bin\Debug\CompGraphics_Laba7.pdb
+C:\Users\Сашок\Downloads\C-gr_Lab7-master (1)\C-gr_Lab7-master\CompGraphics_Laba7\obj\Debug\CompGraphics_Laba7.csprojAssemblyReference.cache
+C:\Users\Сашок\Downloads\C-gr_Lab7-master (1)\C-gr_Lab7-master\CompGraphics_Laba7\obj\Debug\CompGraphics_Laba7.Form1.resources
+C:\Users\Сашок\Downloads\C-gr_Lab7-master (1)\C-gr_Lab7-master\CompGraphics_Laba7\obj\Debug\CompGraphics_Laba7.Properties.Resources.resources
+C:\Users\Сашок\Downloads\C-gr_Lab7-master (1)\C-gr_Lab7-master\CompGraphics_Laba7\obj\Debug\CompGraphics_Laba7.csproj.GenerateResource.cache
+C:\Users\Сашок\Downloads\C-gr_Lab7-master (1)\C-gr_Lab7-master\CompGraphics_Laba7\obj\Debug\CompGraphics_Laba7.exe
+C:\Users\Сашок\Downloads\C-gr_Lab7-master (1)\C-gr_Lab7-master\CompGraphics_Laba7\obj\Debug\CompGraphics_Laba7.pdb
